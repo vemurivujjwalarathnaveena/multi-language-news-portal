@@ -215,7 +215,7 @@ display:none !important;
 
 <div class="header">
 
-<div class="logo">Headline Hub తెలుగు</div>
+<div class="logo">Vujjwala News</div>
 
 <div style="display:flex;align-items:center;gap:15px;">
 
